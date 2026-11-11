@@ -94,23 +94,16 @@ Step 4: order.
 Group decided which sector met each raid and with how many fighters. Then the sector controller spoke to the pilots by radio, in the code words Dowding lists in his despatch.
 "Scramble" meant take off. "Vector 230" meant fly a course of 230 degrees. "Angels 20" meant fly at 20,000 feet. "Pancake" meant land. A whole order took only a few words, and it went to one squadron.
 The photo shows pilots of No. 19 Squadron running to their aircraft. It was staged for the camera, but a real scramble looked much like this.
-So: report, filter, display, order. Now, does this table look familiar?
+So: report, filter, display, order. Did it work?
 
-## Slide 13: Look familiar? It is a task board
-
-[Speaker 3, about 1 minute]
-It should. On the left is a real Trello board, Trello's own project management template. Many of you use a board like this already, in Trello, Notion or Microsoft Planner.
-Fighter Command's operations table worked the same way. One table served every level, just as one board serves the whole team. A raid block became a card. The tote board's few fixed words became lists: To Do, Pending, Done. The 20-minute limit became a due date on the card. And an order to one squadron became a card assigned to one member.
-Dowding built in 1940 what we now use every week. So did it work?
-
-## Slide 14: We had nothing like it
+## Slide 13: We had nothing like it
 
 [Speaker 3, about 45 seconds]
 Let's ask the enemy.
 Adolf Galland was a German fighter commander in 1940. He later wrote that the British had "an extraordinary advantage", which was "their radar and fighter control network and organisation". And then: "We had nothing like it."
 On 15 September, the network showed what that advantage meant.
 
-## Slide 15: Almost every squadron found its raid
+## Slide 14: Almost every squadron found its raid
 
 [Speaker 4, about 1 minute]
 15 September 1940. The Luftwaffe sent two large daylight attacks against London. That day, Fighter Command scrambled 51 squadrons, and according to the historian Alfred Price, 50 of them made contact with the raiders. Almost no squadron was sent to empty sky.
@@ -119,7 +112,7 @@ Two days later, on 17 September, Hitler postponed the invasion of Britain until 
 The photo shows the operations room at Uxbridge, preserved today. Churchill watched this table that day. He later wrote: "I now asked, 'What other reserves have we?' 'There are none,' said Air Vice Marshal Park." Every squadron was in the air, and the network sent almost every one of them to a raid.
 So how did a smaller force win?
 
-## Slide 16: Britain did not have more. It wasted less.
+## Slide 15: Britain did not have more. It wasted less.
 
 [Speaker 4, about 1.25 minutes]
 Britain could not have more, so it won by wasting less. Almost no squadron was sent to empty sky, because the right information reached the right person in time. That is our key idea: when you cannot have more, you win by wasting less, and you waste less when the right information reaches the right person in time. Amy's team is in the same position: five members, one deadline, and no more of either.
@@ -127,48 +120,55 @@ That gives us our definition: effective communication means the right informatio
 Right information: the Filter Room kept one track per raid. Right person: each track reached the Command, Group and Sector tables, and Group chose which sector met the raid. In time: a raid appeared on the table about 4 minutes after radar detected it. In a form they can act on: "Vector 230, Angels 20".
 We built this definition from two scholars. Keyton, as cited in Lunenburg, says communication transmits "information and common understanding from one person to another". Spitzberg describes competence as an impression of effectiveness and appropriateness. The two agree that a message must reach the other person. They differ in focus. Keyton looks at what is transmitted, which gives us the right information reaching the right person. Spitzberg looks at how the receiver judges it, which gives us a form they can act on. Neither mentions time, so we added it from the story.
 
-## Slide 17: Part 2 divider
+## Slide 16: Part 2 divider
 
 [Speaker 4, about 15 seconds]
 Part 2. The network sent almost no squadron to empty sky. Amy's chat leaves one section empty and gets another written twice. Two theories of communication explain why one wastes so little and the other so much.
 
-## Slide 18: Theory 1: Shannon and Weaver
+## Slide 17: Theory 1: Shannon and Weaver
 
 [Speaker 5, about 1.25 minutes]
 Our first theory comes from engineering. In 1949, Claude Shannon and Warren Weaver described communication as a chain. An information source creates a message. A transmitter turns it into a signal. The signal travels through a channel. A receiver turns it back into a message, and the message reaches its destination. On the way, noise can distort it.
 Let's put Amy's chat on the chain. Amy is the source. Her request travels through the group chat. The noise is the dozens of other messages around it. Five phones receive it, but the destination, the member who should act, is not named.
 Weaver described three levels of problems, and Amy's chat has all three. Technical: her message arrives, but under dozens of others. Semantic: "the theory part" means different things to different members. Effectiveness: nobody starts the work.
 
-## Slide 19: Theory 2: The 7 Cs
+## Slide 18: Theory 2: The 7 Cs
 
 [Speaker 5, about 1 minute]
 Shannon and Weaver follow the path of a message. Our second theory judges the message itself.
 Murphy, Hildebrandt and Thomas list seven qualities of a good message, the 7 Cs. We phrase each as a question. Clarity: what is the one main point? Correctness: are the facts and tone right? Conciseness: can it be said in fewer words? Concreteness: is it backed by specific facts? Completeness: does the reader have all they need to act? Consideration: is it written from the reader's side? Courtesy: is it respectful, even when firm?
 So one theory checks the path, and the other checks what travels along it. Now let's test the network, and Amy, against both.
 
-## Slide 20: Part 3 divider
+## Slide 19: Part 3 divider
 
 [Speaker 5, about 10 seconds]
 Part 3. Does Dowding's network pass both theories, and does Amy's chat?
 
-## Slide 21: The network kept noise out of the chain
+## Slide 20: The network kept noise out of the chain
 
 [Speaker 5, about 1.25 minutes]
 First, the path. Each part of Shannon and Weaver's chain matches a part of the network. The source is the radar stations and observers. The transmitter is the Filter Room and the plotters, who turned raw reports into tracks and markers. The channel is telephone lines and radio. The destination is the controllers and the pilots.
 Look at the noise box: duplicate, conflicting and old plots. The network removed that noise before anyone read the table, so controllers did not waste their few minutes on duplicate plots. Amy's chat also reaches everyone, but unfiltered, and nobody knows who acts.
 The dashed line shows something the model leaves out. The network had feedback: radio stations fixed the position of the RAF's own fighters, and pilots reported what they saw. Shannon and Weaver's original model is one-way, so here the network went further than the theory.
 
-## Slide 22: The radio order passes; Amy's request fails
+## Slide 21: The radio order passes; Amy's request fails
 
 [Speaker 6, about 1.25 minutes]
 Now the message. We compared a radio order built from Dowding's code words, "Scramble. Vector 230. Angels 20.", with Amy's "Can someone do the theory part?" We scored each from one to three dots. These scores are our group's judgment.
 The order names one squadron, one course and one height. Amy names no one, gives no deadline, and leaves the reader to guess. So the order scores 19 and Amy scores 13. Every C that Amy misses is something her teammates must guess, and guessing is where their work gets wasted.
 But look at courtesy. The order has no "please", and Amy's request is polite. In a cockpit, courtesy could wait. In a group chat, it cannot. The 7 Cs count every quality the same and never ask about the situation. Yet the situation decides which qualities matter most. That is a real weakness of the theory, and it shapes our second practice.
 
-## Slide 23: Part 4 divider
+## Slide 22: Part 4 divider
 
 [Speaker 6, about 15 seconds]
-Part 4. The network passed both theories, and Amy's chat failed both. Amy's team cannot get more members or more time, so, like Britain, it has to waste less. The good news: the tools already exist. Two practices.
+Part 4. The network passed both theories, and Amy's chat failed both. Amy's team cannot get more members or more time, so, like Britain, it has to waste less. The good news: Amy's team already has the tool it needs. Look back at Fighter Command's operations table.
+
+## Slide 23: Look familiar? It is a task board
+
+[Speaker 6, about 1 minute]
+Does it look familiar? It should. On the left is a real Trello board, Trello's own project management template. Many of you use a board like this already, in Trello, Notion or Microsoft Planner.
+Fighter Command's operations table worked the same way. One table served every level, just as one board serves the whole team. A raid block became a card. The tote board's few fixed words became lists: To Do, Pending, Done. The 20-minute limit became a due date on the card. And an order to one squadron became a card assigned to one member.
+Dowding built in 1940 what we now use every week. The question is whether we use it the way Fighter Command did. Two practices show how.
 
 ## Slide 24: Practice 1: One task board for the project
 
