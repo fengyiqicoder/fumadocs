@@ -96,18 +96,20 @@ Adolf Galland was a German fighter commander in 1940. He later wrote that the Br
 
 [Speaker 4, about 1 minute]
 15 September 1940. Churchill visits the No. 11 Group operations room at Uxbridge and watches the plotters move marker after marker across the table as German raids come in. He later wrote: "I now asked, 'What other reserves have we?' 'There are none,' said Air Vice Marshal Park."
-Park had committed every squadron he had. With no reserves left, a squadron sent to the wrong place could not be replaced. Every order had to send a squadron to a real raid. This is the moment the network was built for.
+Park had committed every squadron he had. With no squadron in reserve, a wrong order could not be corrected. The network had no margin for error, and it still worked.
 Germany lost about 56 to 60 aircraft that day. Two days later, Hitler postponed the invasion of Britain until further notice.
+So what exactly made this effective communication?
 
-## Slide 14: Right information, right person, in time
+## Slide 14: The network passes our definition
 
 [Speaker 4, about 1.25 minutes]
-So what is effective communication? Our definition: effective communication gets the right information to the right person in time, in a form that person can act on.
-Each part of this definition comes from somewhere.
-"The right information, to the right person" comes from Keyton, as cited in Lunenburg: communication is "transmitting information and common understanding from one person to another". In the network, one filtered track per raid reached every operations table.
-"In a form that person can act on" comes from Spitzberg, who describes competence as an impression of effectiveness and appropriateness. "Vector 230, Angels 20" told a pilot where to fly, in a few words.
-"In time" comes from the story itself. Neither scholar mentions time, but a raid could reach London about 20 minutes after radar first detected it.
-So the two scholars agree that a message must reach the other person. They differ in focus: Keyton looks at what is transmitted, while Spitzberg looks at how the receiver judges it.
+Here is our definition: effective communication means the right information reaches the right person in time, in a form they can act on. Let's check the network against each part.
+Right information: the Filter Room kept one track per raid and removed duplicate plots.
+Right person: each track reached the Command, Group and Sector tables, and Group chose which sector met the raid.
+In time: a raid appeared on the operations table about 4 minutes after radar detected it.
+In a form they can act on: "Vector 230, Angels 20" told a pilot where to fly, in a few words.
+The network passes every part.
+We built this definition from two scholars. Keyton, as cited in Lunenburg, says communication transmits "information and common understanding from one person to another". Spitzberg describes competence as an impression of effectiveness and appropriateness. The two agree that a message must reach the other person. They differ in focus: Keyton looks at what is transmitted, while Spitzberg looks at how the receiver judges it. Neither mentions time, so we added it from the story.
 
 ## Slide 15: Part 2 divider
 
