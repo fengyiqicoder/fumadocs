@@ -1,6 +1,6 @@
 # Speaker script: The battle won by information
 
-About 22 minutes at 130 words per minute, plus Q&A. Speaker numbers are suggestions, so reassign them to your group.
+About 21 minutes at 130 words per minute, plus Q&A. Speaker numbers are suggestions, so reassign them to your group.
 
 ## Slide 1: Front page
 
@@ -92,43 +92,36 @@ So: report, filter, display, order. That is the path from a radar plot over Fran
 How well did it work? Let's ask the enemy.
 Adolf Galland was a German fighter commander in 1940. He later wrote that the British had "an extraordinary advantage", which was "their radar and fighter control network and organisation". And then: "We had nothing like it."
 
-## Slide 13: The Luftwaffe bombs the network
-
-[Speaker 3, about 1 minute]
-Then the Luftwaffe found the network's weak point.
-At the end of August and in early September, German bombers attacked the RAF airfields in the south-east, including the sector stations whose controllers directed the fighters. If those stations stopped working, no controller could give the pilots a course and a height. After one raid, Kenley's sector operations room had to move to a butcher's shop in Caterham.
-Then, on 7 September, Hitler moved the main attack to London. One reason was a false German estimate that Fighter Command had only 150 to 300 fighters left. So Germany made its biggest decision of the battle on wrong information. London suffered terribly, but Fighter Command had time to repair its airfields. Boog calls the switch a great relief for Fighter Command, though he adds that it was less decisive than many people believe.
-
-## Slide 14: There are none
+## Slide 13: No reserves, so every order had to be right
 
 [Speaker 4, about 1 minute]
-15 September 1940. Churchill visits the No. 11 Group operations room at Uxbridge. Below him, the plotters move marker after marker across the table as German raids come in. He later wrote: "I now asked, 'What other reserves have we?' 'There are none,' said Air Vice Marshal Park."
-Park had committed every squadron he had.
-The Germans lost about 56 to 60 aircraft that day. Two days later, Hitler postponed the invasion of Britain until further notice.
-Germany had more bombers. But the network was still working.
+15 September 1940. Churchill visits the No. 11 Group operations room at Uxbridge and watches the plotters move marker after marker across the table as German raids come in. He later wrote: "I now asked, 'What other reserves have we?' 'There are none,' said Air Vice Marshal Park."
+Park had committed every squadron he had. With no reserves left, a squadron sent to the wrong place could not be replaced. Every order had to send a squadron to a real raid. This is the moment the network was built for.
+Germany lost about 56 to 60 aircraft that day. Two days later, Hitler postponed the invasion of Britain until further notice.
 
-## Slide 15: What the story shows
+## Slide 14: Right information, right person, in time
 
 [Speaker 4, about 1.25 minutes]
-So what does this story show about communication?
-Keyton, as cited in Lunenburg, defines communication as "transmitting information and common understanding from one person to another". The network did exactly that. One track per raid reached every table, and every reader understood the same symbols.
-Spitzberg describes competence as an impression of effectiveness and appropriateness, formed by the people you communicate with. "Vector 230, Angels 20" was effective, because it told a pilot exactly where to fly. And it was appropriate, because a short code suited a radio in combat.
-Keyton judges communication by what reaches the other person. Spitzberg judges it by the other person's impression. Neither mentions time, and the network had about 20 minutes for each raid.
-Our definition takes Keyton's transfer and Spitzberg's effectiveness, and adds time from the story: effective communication gets the right information to the right person in time, in a form that person can act on.
+So what is effective communication? Our definition: effective communication gets the right information to the right person in time, in a form that person can act on.
+Each part of this definition comes from somewhere.
+"The right information, to the right person" comes from Keyton, as cited in Lunenburg: communication is "transmitting information and common understanding from one person to another". In the network, one filtered track per raid reached every operations table.
+"In a form that person can act on" comes from Spitzberg, who describes competence as an impression of effectiveness and appropriateness. "Vector 230, Angels 20" told a pilot where to fly, in a few words.
+"In time" comes from the story itself. Neither scholar mentions time, but a raid could reach London about 20 minutes after radar first detected it.
+So the two scholars agree that a message must reach the other person. They differ in focus: Keyton looks at what is transmitted, while Spitzberg looks at how the receiver judges it.
 
-## Slide 16: Part 2 divider
+## Slide 15: Part 2 divider
 
 [Speaker 4, about 10 seconds]
 Part 2. Two theories help us answer one question: why did the network work?
 
-## Slide 17: Theory 1: The 7 Cs
+## Slide 16: Theory 1: The 7 Cs
 
 [Speaker 4, about 1 minute]
 Our first theory is the 7 Cs of communication, from the business communication textbook by Murphy, Hildebrandt and Thomas. They list seven qualities of a good message. We have turned each one into a question a sender can ask.
 Clarity: what is the one main point? Correctness: are the facts and tone right? Conciseness: can it be said in fewer words? Concreteness: is it backed by specific facts? Completeness: does the reader have all they need to act? Consideration: is it written from the reader's side? Courtesy: is it respectful, even when firm?
 The 7 Cs work best on a single message from one sender. In Part 3 we test one of Dowding's radio orders against them.
 
-## Slide 18: Theory 2: Shannon and Weaver
+## Slide 17: Theory 2: Shannon and Weaver
 
 [Speaker 5, about 1.25 minutes]
 Our second theory comes from engineering. In 1949, Claude Shannon and Warren Weaver described communication as a chain.
@@ -136,7 +129,7 @@ An information source creates a message. A transmitter turns it into a signal. T
 Weaver added three levels of problems. Level A, technical: can the symbols be sent accurately? Level B, semantic: do the symbols carry the intended meaning? Level C, effectiveness: does the meaning change behaviour as intended?
 Shannon developed it while working on telephone systems, so it fits a network built from telephone lines and radios.
 
-## Slide 19: Comparing the two theories
+## Slide 18: Comparing the two theories
 
 [Speaker 5, about 1.25 minutes]
 Let's compare the two theories.
@@ -144,12 +137,12 @@ The 7 Cs check the quality of one message, and anyone can use them quickly. Shan
 Weakness: the 7 Cs are a checklist rather than a tested theory. Shannon and Weaver's model is one-way. It has no feedback, and it says nothing about the relationship between people. Craig notes that this "transmission" view of communication is often criticised as too simple.
 Culture: both theories assume that meaning sits in the explicit message. Hall called this low-context communication. Hong Kong is often described as more high-context than Britain. In high-context cultures, much of the meaning depends on the relationship and the situation. One caution: Cardon's 2008 review found that Hall's model has rarely been tested. So the 7 Cs help us check one order, and Shannon and Weaver help us check the whole network. Part 3 uses both.
 
-## Slide 20: Part 3 divider
+## Slide 19: Part 3 divider
 
 [Speaker 5, about 10 seconds]
 Part 3. How do the theories explain the network, and what do they miss?
 
-## Slide 21: The network, part by part
+## Slide 20: The network, part by part
 
 [Speaker 5, about 1.25 minutes]
 Let's put the network on Shannon and Weaver's model.
@@ -157,14 +150,14 @@ Read the top row against the bottom row. The source is the radar stations and ob
 Now look at the dashed line. The network also had feedback: radio stations fixed the position of the RAF's own fighters, and pilots reported what they saw. The original model has no feedback, so here the network went further than the theory.
 The network reduced all three of Weaver's problems. Level A: the Filter Room removed duplicate and conflicting plots before they reached the tables. Level B: shared symbols and code words carried the same meaning to everyone. Level C: squadrons met the raids. But it did not remove the problems. Radar plots were not always accurate, and on the next slide two commanders disagree about what to do with the same reports.
 
-## Slide 22: One radio order against the 7 Cs
+## Slide 21: One radio order against the 7 Cs
 
 [Speaker 6, about 1.25 minutes]
 Now the 7 Cs. We built an example order from the code words in Dowding's despatch: "Scramble. Vector 230. Angels 20." Our group scored it from one to three dots. It is clear, correct, five words long, exact, complete, and written for a pilot who is flying.
 Courtesy scores only one dot. There is no "please". In combat, speed came first.
 So, by the checklist, the order scores 19 of 21. We gave courtesy one dot to show a weakness of the 7 Cs. In an office, an order with no "please" sounds rude. In a cockpit, a short order respects the pilot's time. The checklist does not ask about the situation, so the same five words could score one dot or three.
 
-## Slide 23: Three limits of our analysis
+## Slide 22: Three limits of our analysis
 
 [Speaker 6, about 1.25 minutes]
 Our analysis has three limits.
@@ -173,12 +166,12 @@ Second, many people built the network. It built on air defence from the First Wo
 Third, most of our sources come from British or RAF institutions, and Galland wrote after the war.
 Here's a question for you: if thousands of people ran the network, how much of its success belongs to Dowding?
 
-## Slide 24: Part 4 divider
+## Slide 23: Part 4 divider
 
 [Speaker 6, about 10 seconds]
 Part 4. How can a student team get the right information to the right person in time?
 
-## Slide 25: Our group chats have the same problem
+## Slide 24: Our group chats have the same problem
 
 [Speaker 6, about 1 minute]
 Our group projects have the same problem as the radar operator.
@@ -187,7 +180,7 @@ Option A: nobody replies. Each member thinks someone else will do it, and on Thu
 Option B: two members both start. They write the same section twice, and nobody starts the comparison table.
 Like the radar operator in 1940, Amy has the information. The hard part is getting it to the right person, in a form that person can act on. Dowding's network gives us two lessons.
 
-## Slide 26: Lesson 1: Keep one shared tracker
+## Slide 25: Lesson 1: Keep one shared tracker
 
 [Speaker 6, about 1.5 minutes]
 Lesson 1: keep one shared tracker, and run it through the same four steps as Dowding's network.
@@ -199,7 +192,7 @@ Look at the example tracker. Everyone can see that the comparison table has an o
 Research supports the goal. In a flight simulation study, Mathieu and colleagues found that pairs who shared an understanding of the task and of each other worked together better and performed better. The study did not test trackers. The tracker is our way to build that shared understanding in a student team.
 One tip for students: rotate the coordinator each week, so one person does not do all the filtering.
 
-## Slide 27: Lesson 2: Confirm what you heard
+## Slide 26: Lesson 2: Confirm what you heard
 
 [Speaker 6, about 1.25 minutes]
 Lesson 2: confirm what you heard.
@@ -209,7 +202,7 @@ On the right is Amy's chat again. Ming's paraphrase makes Amy remember the compa
 In a 2014 study of 115 people, Weger and colleagues found that speakers felt more understood when the listener paraphrased and asked follow-up questions than when the listener gave advice or only short replies. The study measured how understood people felt, not fewer mistakes, so our chat is an example, not proof.
 Use this for every request with a deadline. A paraphrase checks the request without saying the other person was unclear.
 
-## Slide 28: Conclusion and Q&A
+## Slide 27: Conclusion and Q&A
 
 [Speaker 1, about 45 seconds, then Q&A]
 Let's go back to our first question: if you commanded Britain's fighters, where would you send them? Dowding's answer was: only where the operations table showed a raid was going. On 15 September, Park had no squadron left in reserve, yet the Germans lost about 56 to 60 aircraft. Germany had more aircraft. Britain had a network that got the right information to the right person in time, and that is our definition of effective communication.
