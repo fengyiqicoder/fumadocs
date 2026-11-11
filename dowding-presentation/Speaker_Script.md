@@ -91,14 +91,15 @@ So: report, filter, display, order. That is the path from a radar plot over Fran
 [Speaker 3, about 45 seconds]
 How well did it work? Let's ask the enemy.
 Adolf Galland was a German fighter commander in 1940. He later wrote that the British had "an extraordinary advantage", which was "their radar and fighter control network and organisation". And then: "We had nothing like it."
+And on the hardest day of the battle, the network produced its result.
 
-## Slide 13: No reserves, so every order had to be right
+## Slide 13: The result: the invasion was postponed
 
 [Speaker 4, about 1 minute]
-15 September 1940. Churchill visits the No. 11 Group operations room at Uxbridge and watches the plotters move marker after marker across the table as German raids come in. He later wrote: "I now asked, 'What other reserves have we?' 'There are none,' said Air Vice Marshal Park."
-Park had committed every squadron he had. With no squadron in reserve, a wrong order could not be corrected. The network had no margin for error, and it still worked.
-Germany lost about 56 to 60 aircraft that day. Two days later, Hitler postponed the invasion of Britain until further notice.
-So what exactly made this effective communication?
+15 September 1940. The Luftwaffe made two large daylight attacks, mainly on London. The network directed No. 11 Group's squadrons against both, and both attacks were beaten off. Germany lost about 56 to 60 aircraft that day.
+Two days later, on 17 September, Hitler postponed the invasion of Britain until further notice. That is the outcome of the network: Germany could not win control of the air, so it could not invade.
+The photo shows the operations room at Uxbridge, preserved today. Churchill watched this table during the battle. He later wrote: "I now asked, 'What other reserves have we?' 'There are none,' said Air Vice Marshal Park." Every squadron was in the air, and each one depended on the network to send it to a raid.
+So what exactly made the network effective communication?
 
 ## Slide 14: The network passes our definition
 
@@ -207,7 +208,7 @@ Use this for every request with a deadline. A paraphrase checks the request with
 ## Slide 27: Conclusion and Q&A
 
 [Speaker 1, about 45 seconds, then Q&A]
-Let's go back to our first question: if you commanded Britain's fighters, where would you send them? Dowding's answer was: only where the operations table showed a raid was going. On 15 September, Park had no squadron left in reserve, yet the Germans lost about 56 to 60 aircraft. Germany had more aircraft. Britain had a network that got the right information to the right person in time, and that is our definition of effective communication.
+Let's go back to our first question: if you commanded Britain's fighters, where would you send them? Dowding's answer was: only where the operations table showed a raid was going. Germany had more aircraft. Britain had a network that got the right information to the right person in time, and that is our definition of effective communication.
 For our own teams, three habits: send every update to one shared tracker, write each request as owner, task and deadline, and confirm what you heard before you act.
 Two questions for you. Where does information get lost in your group projects? And who in your team merges the updates, the way the Filter Room did?
 Thank you. We're happy to take your questions.
