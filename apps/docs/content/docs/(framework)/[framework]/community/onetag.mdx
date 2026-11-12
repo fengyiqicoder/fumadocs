@@ -1,0 +1,76 @@
+---
+title: OneTag Ask AI
+description: An Ask AI box that answers from your llms-full.txt, with no server to run.
+staticParams:
+  - framework: next
+---
+
+> This is a community-maintained integration.
+
+A static export has no server, so it cannot run an AI chat route of its own.
+
+[OneTag AI](https://onetagai.com) adds an Ask AI box with one script tag. When a reader asks a question, the browser reads the `llms-full.txt` your Fumadocs site already serves, picks the passages that match, and sends them with the question to OneTag AI. The answer links the pages it came from. Nothing is crawled, and there is no dashboard to keep in sync with your docs. There is a free plan.
+
+## Setup
+
+### 1. Serve `llms-full.txt`
+
+Follow [Docs for LLM](/docs/integrations/llms). The box reads the `llms-full.txt` route it creates.
+
+### 2. Add the script
+
+Put the script at the end of the `<body>` in your root layout. Keep the rest of your layout as it is.
+
+```tsx title="app/layout.tsx"
+import { RootProvider } from 'fumadocs-ui/provider/next';
+import Script from 'next/script';
+import type { ReactNode } from 'react';
+
+export default function Layout({ children }: { children: ReactNode }) {
+  return (
+    <html lang="en" suppressHydrationWarning>
+      <body className="flex flex-col min-h-screen">
+        <RootProvider>{children}</RootProvider>
+        <Script
+          src="https://onetagai.com/ask-docs.js"
+          data-key={process.env.NEXT_PUBLIC_ONETAG_KEY}
+          data-index="/llms-full.txt"
+          strategy="lazyOnload"
+        />
+      </body>
+    </html>
+  );
+}
+```
+
+The script loads after the page, so your docs always render first. Fumadocs changes pages without a full reload, and the box stays on screen while the reader moves through your docs.
+
+Run `next dev` and click **Ask AI**. On localhost the box answers on a shared demo key, so you can try it before you sign up.
+
+### 3. Get a key before you deploy
+
+```bash
+curl -X POST https://onetagai.com/api/signup -H "Content-Type: application/json" -d '{"email":"you@example.com"}'
+```
+
+```bash title=".env"
+NEXT_PUBLIC_ONETAG_KEY=ot_YOURKEY
+```
+
+Set it where you run `next build`, because Next.js reads `NEXT_PUBLIC_` values at build time. The key is public by design, like an analytics ID. The free plan is 1,000,000 tokens, one time, with a hard cap: when it runs out the box says so, and no bill can appear.
+
+## Options
+
+Every option is a `data-*` attribute on the script.
+
+| Attribute          | Default                           | What it does                                              |
+| ------------------ | --------------------------------- | --------------------------------------------------------- |
+| `data-label`       | `Ask AI`                          | Text on the button and at the top of the box.             |
+| `data-placeholder` | `Ask a question about these docs` | Text in the empty question field.                         |
+| `data-position`    | `auto`                            | Where the button goes: `auto`, `float`, `left` or `none`. |
+| `data-button`      | none                              | CSS selector of your own element that opens the box.      |
+| `data-color`       | blue                              | Accent color as hex, for example `0b5fff`.                |
+| `data-theme`       | follows the page                  | `light` or `dark`.                                        |
+| `data-rules`       | built in                          | Replaces the instructions the AI gets.                    |
+
+From your own code: `onetagAskDocs.open()`, `onetagAskDocs.close()` and `onetagAskDocs.ask('How do I deploy?')`.
